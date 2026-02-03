@@ -156,7 +156,7 @@ AI skills are structured instructions that guide AI assistants (like Claude Code
 
 ```bash
 # Clone to your Claude skills directory
-git clone https://github.com/YOUR_USERNAME/effective-typescript-skills.git ~/.claude/skills/effective-typescript
+git clone https://github.com/marius-townhouse/effective-typescript-skills.git ~/.claude/skills/effective-typescript
 
 # Or copy just the skills
 cp -r effective-typescript-skills/skills/* ~/.claude/skills/
@@ -166,7 +166,7 @@ cp -r effective-typescript-skills/skills/* ~/.claude/skills/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/effective-typescript-skills.git
+git clone https://github.com/marius-townhouse/effective-typescript-skills.git
 
 # The skills are automatically available in the skills/ directory
 ```
@@ -183,7 +183,7 @@ Copy the `skills/` directory contents to your AI assistant's skills folder.
 
 ```bash
 # Clone to Claude's global skills directory
-git clone https://github.com/YOUR_USERNAME/effective-typescript-skills.git ~/.claude/skills/effective-typescript
+git clone https://github.com/marius-townhouse/effective-typescript-skills.git ~/.claude/skills/effective-typescript
 
 # Or create a symlink
 ln -s /path/to/effective-typescript-skills ~/.claude/skills/effective-typescript
@@ -217,7 +217,7 @@ OpenCode automatically discovers skills in the `skills/` directory. Simply:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/effective-typescript-skills.git
+git clone https://github.com/marius-townhouse/effective-typescript-skills.git
 
 # The skills are immediately available in the skills/ directory
 # OpenCode will load them automatically
